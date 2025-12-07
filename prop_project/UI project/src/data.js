@@ -2,7 +2,7 @@
 export const jobsData = [
   {
     company: "Amazon",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    logo: "https://imgs.search.brave.com/pw-iFxvWWPNXLVEcHxz-QiyqdZatr91Zby9NXatuKQ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzEw/L0FtYXpvbi1sb2dv/LW1lYW5pbmctNTAw/eDI1MC5qcGc",
     days: "5 days ago",
     title: "Senior UI/UX Designer",
     type: "Part - Time",
@@ -12,7 +12,7 @@ export const jobsData = [
   },
   {
     company: "Google",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEndPkpxU-FDOQK0acJ6iuFECTI914xOelQ&s",
     days: "2 days ago",
     title: "Frontend Engineer",
     type: "Full - Time",
@@ -22,7 +22,7 @@ export const jobsData = [
   },
   {
     company: "Apple",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rIxFRNX2QZlnQidGjE75yAg9jR4Jhy3Jgw&s",
     days: "1 day ago",
     title: "Product Designer",
     type: "Contract",
@@ -32,7 +32,7 @@ export const jobsData = [
   },
   {
     company: "Netflix",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-b-GRJP49S_nvl8UDCQ2DDusVBUmQcN1Ug&s",
     days: "3 days ago",
     title: "Backend Developer",
     type: "Full - Time",
@@ -42,7 +42,7 @@ export const jobsData = [
   },
   {
     company: "Meta",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Logo.svg",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZPJAE0dqPukUcuiRdQe0U0oNM6IM7B_ZSA&s",
     days: "6 days ago",
     title: "AR/VR Engineer",
     type: "Full - Time",
@@ -52,7 +52,7 @@ export const jobsData = [
   },
   {
     company: "Microsoft",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymlLk2n_Q7xiznxOX7LfDQYZPCAt8g-GCEw&s",
     days: "4 days ago",
     title: "Cloud Solutions Architect",
     type: "Full - Time",
@@ -62,7 +62,7 @@ export const jobsData = [
   },
   {
     company: "Tesla",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+    logo: "https://pngimg.com/d/tesla_logo_PNG19.png",
     days: "8 days ago",
     title: "Machine Learning Engineer",
     type: "Full - Time",
@@ -72,7 +72,7 @@ export const jobsData = [
   },
   {
     company: "NVIDIA",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nvidia_logo.svg",
+    logo: "https://www.citypng.com/public/uploads/preview/hd-nvidia-eye-logo-icon-png-701751694965655t2lbe7yugk.png?v=2025081722",
     days: "7 days ago",
     title: "AI Research Scientist",
     type: "Full - Time",
@@ -82,7 +82,7 @@ export const jobsData = [
   },
   {
     company: "Adobe",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Adobe_logo.svg",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonVNsfzvIrKxFgcvMhXtw3Mh4NX9re2B7Vg&s",
     days: "2 days ago",
     title: "Creative Cloud Engineer",
     type: "Part - Time",
@@ -92,7 +92,7 @@ export const jobsData = [
   },
   {
     company: "IBM",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+    logo: "https://static.vecteezy.com/system/resources/previews/021/514/722/non_2x/ibm-brand-symbol-software-computer-logo-design-illustration-free-vector.jpg",
     days: "9 days ago",
     title: "Data Analyst",
     type: "Full - Time",

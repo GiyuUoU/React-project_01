@@ -15,9 +15,9 @@ body,html {
   width: 100%;
   display: flex;
   flex-wrap:wrap;
-  gap: 40px;
+  gap: 80px;
   background-color: rgba(226, 226, 226, 0.984);
-  padding: 35px;
+  padding: 90px;
 }
 
 #card1{

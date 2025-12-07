@@ -1,7 +1,6 @@
 // src/App.jsx
 import React from 'react';
 import './App.css';
-
 import { jobsData } from './data.js';
 import Card from './components/Card.jsx';
 
