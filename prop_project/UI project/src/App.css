@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,html {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+}
+
+#parent{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-wrap:wrap;
+  gap: 40px;
+  background-color: rgba(226, 226, 226, 0.984);
+  padding: 35px;
+}
+
+#card1{
+  height: 320px;
+  width: 270px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(144, 144, 144, 0.099), 0 6px 20px 0 #58585830;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+#top{
+  height: 30%;
+  width: 100%;
+  display: flex;
+}
+#logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 25px;
+  overflow: hidden;
+  border: 1px solid #bdbdbd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo img{
+  border-radius: 50%;
+  height: 80%;
+  width: 80%;
+  object-fit: cover;
+}
+
+#save-button{
+  height: 25px;
+  width: 65px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 19px;
+  margin-left: 80px;
+  font-size: 12px;
+  gap: 4px;
+  border: 1px solid #bdbdbd;
+  color: rgb(80, 80, 80);
+}
+
+#save-button svg{
+  height: 15px;
+  width: 15px;
+}
+
+#save-button:hover{
+  cursor: pointer;
+  background-color: rgb(228, 228, 228);
+}
+
+
+#mid{
+  height: 46%;
+  width: 85%;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 12px;
+  font-weight:bold;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+#company{
+  height: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+#days{
+  padding-top: px;
+  height: 13px;
+  width: 80px;
+  color: #bdbdbd;
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+}
+
+#work-type{
+  padding-top: 4px;
+  height: 35px;
+  width: 100%;
+  display: flex;
+  font-size: 9px;
+  align-items: center;
+  gap: 8px;
+}
+
+#type{
+  background-color: #e5e5e5;
+  height: 20px;
+  width: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+#level{
+  background-color: rgb(229, 229, 229);
+  height: 20px;
+  width: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+#bottom{
+  padding-top: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 24%;
+  width: 85%;
+  border-top: 1px solid #e5e5e5;
+  display: flex;
+  font-size: 15px;
+  font-weight: bold;
+  gap: 50px;
+}
+
+#salary-loc{
+  height: 50px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+#location{
+  height: 15px;
+  width: 100%;
+  color: #bdbdbd;
+  display: flex;
+  align-items: center;
+  font-size: 9px;
+  font-weight: normal;
+}
+
+#apply-now{
+  height: 30px;
+  width: 85px;
+  background-color: black;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 11px;
+  margin-top: 2px;
+}
+
+#apply-now:hover{
+  cursor: pointer;
+  background-color: #3b3b3b;
+}
